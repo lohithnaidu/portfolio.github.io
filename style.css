@@ -133,7 +133,7 @@
     display: flex;
     justify-content: space-between;
     width: 345px;
-    height 50px;
+    height: 50px;
 }
 
 .home-content .btn-box::before {
@@ -266,7 +266,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 600px;
+    width: 605px;
     height: 100%;
     background: transparent;
     transition: 3s;
